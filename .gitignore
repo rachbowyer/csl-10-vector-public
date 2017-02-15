@@ -10,3 +10,7 @@ pom.xml.asc
 .lein-plugins/
 .lein-failures
 .nrepl-port
+csl-10-vector.iml
+.DS_Store
+.idea/
+
