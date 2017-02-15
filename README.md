@@ -5,7 +5,7 @@
 
 
 This is an extended version of the code in [The Clojure Standard Library](https://www.manning.com/books/clojure-standard-library) Chapter 10 - Vectors, 
-which produces the beautifully rendered image of the Mandelbrot Set (shown above) using the [Quill](http://quil.info/) library.
+which produces the beautifully rendered image of the Mandelbrot Set used in the book (and shown above) using the [Quill](http://quil.info/) library.
 
 To build and run the code:
 
