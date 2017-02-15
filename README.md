@@ -1,4 +1,4 @@
-# csl-10-vector-public
+# The Clojure Standard Library - Chapter 10 - Mandelbrot Set example
 
 
 ![The mandelbrot set with the real axis from -2.25 to 0.75 and the imaginary axis from -1 to 1](https://github.com/rachbowyer/csl-10-vector-public/blob/master/mandelbrot-set.png)
